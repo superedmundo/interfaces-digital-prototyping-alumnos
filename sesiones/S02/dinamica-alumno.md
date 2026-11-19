@@ -1,6 +1,6 @@
-# S02 — Alumno v0.2 (D-055)
+# S02 — Alumno v0.3 (H-08 D-063/D-064; base D-055)
 
-> **EDICIÓN PÚBLICA DE CONSULTA · VIGENCIA:** S01 v0.2 (D-042) y S02 v0.2 (D-055) aceptadas documentalmente. Rúbricas D-049 recibidas como BORRADORES, sin autorización para calificar. Gate B histórico técnico D-044; Gate C y verificación de aula pendientes. Material público de consulta; sin GitHub Pages, Classroom ni IA.
+> **EDICIÓN PÚBLICA DE CONSULTA · VIGENCIA:** S01 v0.2 (D-042) aceptada documentalmente; S02 v0.3 (H-08, D-063/D-064 sobre D-055) ratificada solo documentalmente. Rúbricas D-049 recibidas como BORRADORES, sin autorización para calificar. Gate B histórico técnico D-044; Gate C y verificación de aula pendientes. Material público de consulta; sin GitHub Pages, Classroom ni IA.
 
 S02 · Museo de los horrores UI — Guía autónoma del alumno
 
@@ -112,7 +112,9 @@ Pista 4: si el texto está oculto, usa Layers para revisar si quedó detrás de 
 
 Pista 5: si discuten estética, vuelve a los tres sellos; justificar por qué una modificación ayuda importa más que decorar.
 
-## 11. Autoevaluación y reflexión breve (85–90)
+## 11. Cierre de la Liga y salida individual (85–90)
+
+De 85 a 87 el profesor revisa y totaliza los votos de la Liga; de 87 a 89 comunica resultados únicamente si la jornada es válida. De 89 a 90, todos los integrantes escriben simultáneamente una frase breve sobre su aporte, aprendizaje y duda: no se hacen 25 intervenciones orales individuales. Si hay resultados pendientes de validación, se registran como pendientes, sin inventar puntos.
 
 Compruébalo sin convertirlo en nota: □ describimos tres problemas y efectos hipotéticos; □ respetamos el expediente; □ representamos tres mejoras y el antes/después; □ mostramos una pantalla con objetos editables o declaramos contingencia; □ las cinco personas tuvieron una aportación registrable; □ defendimos dos decisiones y una duda; □ atendimos las instrucciones comunes comunicadas por el profesor; □ escuchamos y justificamos cuatro votos rivales con respeto. La sorpresa no es criterio extra ni da ventaja.
 
@@ -134,7 +136,7 @@ Archivo Figma nativo S01/S02, referencia NO EDITABLE POR DEFECTO: [recurso del p
 
 Kit original SVG/PNG de contingencia: [recurso del proyecto reservado: solicitar acceso académico autorizado] . No alteres el original.
 
-Guía S01 alumno: [Guía S01 alumno v0.2](../S01/guia-alumno.md) ; Figma Frames: https://help.figma.com/hc/en-us/articles/360041539473-Frames-in-Figma-Design ; Figma Layers: https://help.figma.com/hc/en-us/articles/360040449873-Select-layers-and-objects
+Guía S01 alumno: [Guía S01 alumno v0.2 (D-042)](../S01/guia-alumno.md) ; Figma Frames: https://help.figma.com/hc/en-us/articles/360041539473-Frames-in-Figma-Design ; Figma Layers: https://help.figma.com/hc/en-us/articles/360040449873-Select-layers-and-objects
 
 Tiempo autónomo adicional asignado por esta guía: CERO minutos. El presupuesto semanal nominal conjunto ya está reservado para preparación S01 (75 min), exploración Figma (25 min) y margen (20 min) = 120 min. La restauración, votos y reflexión se realizan en los 90 min de S02. El tiempo de recuperación por ausencia no se suma como deber ordinario de quienes asistieron.
 
