@@ -1,4 +1,4 @@
-/* Presentación privada v0.2. No scripts, tracking, fuentes externas ni CDN. */
+/* Vista local del estudiante. Sin tracking, fuentes externas ni CDN. */
 :root{--navy:#112f48;--deep:#183d55;--primary:#12649a;--light:#eff5f9;--line:#d8e4eb;--body:#293f51;--muted:#537081;--amber:#ad6a17;--focus:#c76b23}
 *{box-sizing:border-box}
 html{scroll-behavior:smooth}
@@ -82,3 +82,16 @@ h3{font-size:18px;line-height:1.4;color:var(--deep)}
 
 /* High-contrast brand on navy sidebar (v0.2) */
 .sidebar h2{color:#f2f8fd}
+
+/* Portada y recursos complementarios accesibles sin conexión. */
+.welcome,.media-section{background:#fff;border:1px solid var(--line);border-radius:15px;padding:24px 28px;margin-top:24px}
+.welcome h2,.media-section h2{margin:0 0 10px}
+.welcome p,.media-section>p{margin:10px 0;font-size:15px;color:var(--body);line-height:1.75}
+.media-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(230px,1fr));gap:16px;margin:18px 0 8px}
+.media-grid-prep{margin:22px 0 0}
+.media-card{background:#f5f9fc;border:1px solid var(--line);border-radius:12px;padding:19px}
+.media-card h3{margin:5px 0 9px;font-size:18px}
+.media-card p{font-size:14px;line-height:1.7;margin:0 0 18px;color:var(--muted)}
+.media-type{font-size:11px;letter-spacing:.08em;font-weight:800;color:#345f7b}
+.media-pending{display:inline-block;color:#4b6474;background:#e5edf2;padding:5px 10px;border-radius:6px;font-size:12px;font-weight:700}
+@media(max-width:830px){.welcome,.media-section{padding:19px}}

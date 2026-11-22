@@ -1,24 +1,29 @@
-# Interfaces Digital for Prototyping · Bloque 01 — ALUMNOS (CONSULTA PÚBLICA)
+# Interfaces Digital for Prototyping · Materiales para estudiantes
 
-**Repositorio público de materiales para consulta. No se han habilitado GitHub Pages ni Classroom, y este material no equivale a autorización para impartir o calificar.** S01 v0.2 D-042 y S02 v0.2 D-055 aceptadas SOLO documentalmente. Gate B PASS técnico histórico D-044; Gate C y QA de aula pendientes. Rúbricas D-049 aceptadas solo documentalmente; no se pueden aplicar notas.
+¡Bienvenido! Aquí puedes explorar los materiales del primer bloque antes de tus clases.
 
-- [Preparación WO-002](docs/preparacion.md) | [Cuestionario sin claves](docs/cuestionario.md)
-- [S01 · Guía completa del alumno](sesiones/S01/guia-alumno.md): «Estante de lectura» y «Mini libreta» son INDIVIDUALES.
-- [S02 · Guía completa del alumno](sesiones/S02/dinamica-alumno.md): «Museo de los horrores» con 5 brigadas y Liga independiente.
-- [Estado y restricciones](docs/estado.md)
+## Cómo abrir la guía en tu computadora
 
-### Vista local del alumno
-Descarga el contenido del repositorio y abre **web-preview/index.html** para navegar por las cuatro pantallas estilizadas sin conexión. GitHub Pages no está activado.
+1. Haz clic en **Code → Download ZIP**.
+2. Descomprime el ZIP en una carpeta.
+3. Abre `web-preview/index.html` con tu navegador (Chrome, Edge u otro).
+4. Comienza por **Preparación** y después visita **S01** y **S02**.
 
-El texto de las guías deriva de documentos canónicos de Drive. Los enlaces privados (incluidos los masters de Figma) se sustituyen por marcadores de acceso pendiente. No hay claves docentes, soluciones docentes de errores, contraseñas ni datos de alumnos.
+No tienes que instalar Git, Node.js ni Visual Studio Code para consultar las páginas. Funcionan localmente sin conexión; los recursos externos requieren internet cuando los abras.
 
-## Versión pública de consulta — Bloque 01
-Descarga el ZIP del repositorio público (Code → Download ZIP), extráelo y abre web-preview/index.html desde tu equipo. Los HTML no constituyen una página web alojada; GitHub Pages sigue deshabilitado. Los enlaces a continuación son CAPTURAS estáticas.
+**¿Qué aprenderás?** En **S01** observarás la UI y UX, crearás «Estante de lectura» y repararás «Mini libreta» de forma individual. En **S02** participarás en «Museo de los horrores UI», un juego de diseño colaborativo.
 
-| Captura de revisión | Abrir imagen |
-|---|---|
-| Portada | [Captura Portada](docs/vistas/portada.png) |
-| S01 | [Captura S01](docs/vistas/s01.png) |
-| S02 | [Captura S02](docs/vistas/s02.png) |
+## Acceso a las guías por separado
 
-La guía S02 v0.2 y la vista HTML se sincronizaron editorialmente bajo PAQ-B01 D-056; S01 v0.2 se conserva. Las notas de control históricas de las guías reflejan su fecha original; prevalece el estado vigente indicado en este README y en docs/estado.md. El repositorio público se generó desde archivos vigentes, sin compartir el historial del entorno editorial privado.
+- [Preparación y lectura](docs/preparacion.md)
+- [Cuestionario de práctica](docs/cuestionario.md)
+- [S01: guía del estudiante](sesiones/S01/guia-alumno.md)
+- [S02: guía del estudiante](sesiones/S02/dinamica-alumno.md)
+
+Los videos y episodios de podcast tienen espacios reservados en la interfaz y aparecerán cuando tu profesor comparta los recursos. Por ahora no se reciben tareas en estas páginas; tu profesor explicará dónde y cómo entregarlas.
+
+## Información de coordinación (no necesaria para estudiar)
+
+La versión publicada se encuentra en GitHub para revisión del Bloque 01. El documento [Estado y restricciones](docs/estado.md) conserva notas técnicas de implementación; no son instrucciones ni actividades para estudiantes.
+
+Las vistas de GitHub [Portada](docs/vistas/portada.png), [S01](docs/vistas/s01.png) y [S02](docs/vistas/s02.png) son capturas históricas; la experiencia actual se consulta abriendo el archivo HTML local. No se ha activado GitHub Pages.

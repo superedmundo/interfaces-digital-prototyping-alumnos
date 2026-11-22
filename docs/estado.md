@@ -1,11 +1,15 @@
-# Estado del repositorio público de consulta · Bloque 01
+# Estado del repositorio público · Bloque 01 (control editorial)
 
-S01 v0.2 (D-042) y S02 v0.2 (D-055) aceptadas documentalmente. Rúbricas D-049 recibidas como BORRADORES, sin autorización para calificar. Gate B histórico técnico D-044; Gate C y verificación de aula pendientes. Repositorio de alumno público para consulta; sin GitHub Pages, Classroom ni IA.
+Este archivo es una referencia para coordinación y control de versiones, **no forma parte de las actividades de aprendizaje del estudiante**.
 
-S01 (individual): Estante de lectura y Mini libreta. S02 (colaborativa): Museo de los horrores UI, cinco brigadas de cinco con expediente idéntico; tres sellos, cinco exposiciones. Liga: 40 puntos por equipo evaluador entre cuatro rivales, sin efecto en notas.
+- S01 alumno v0.2 D-042 y S02 alumno v0.3 D-063/D-064, sincronizadas en GitHub mediante D-066.
+- QA independiente D-067: **CONFORME** solo para el alcance editorial y estático H07/H08; no equivale a QA general de aula.
+- D-068: reglas de la Liga P-08, S01 2 puntos porcentuales individuales, S02 3 grupales, ausencias/recuperación y arquitectura futura Classroom **APROBADAS** documentalmente.
+- Rúbricas S01 v0.1 y S02 v0.2 D-049: instrumentos de referencia sin autorización para emitir notas reales.
+- Gate B Figma: PASS técnico histórico D-044. Gate C, accesos de estudiantes a sus cinco espacios y QA de aula permanecen pendientes.
+- El repositorio público es un recurso de consulta. No se han publicado actividades reales de Classroom, no se ha activado GitHub Pages ni evaluaciones de IA.
+- El material reservado del profesor, soluciones y giro PE-01 no está en este repositorio.
 
-Ambas sesiones: 90 minutos efectivos; 120 minutos NOMINALES de trabajo autónomo por SEMANA (75+25+20), no por sesión. Reparto académico global 40% individual y 60% grupal; no se aprobaron pesos S01/S02 ni 25/15/40/20. P-08 (anomalías de Liga), política académica de ausencias/traslado y Gate C pendientes.
+La distribución semanal nominal es de **120 minutos de trabajo autónomo** en conjunto. S01 y S02 duran 90 minutos efectivos cada una. La Liga no influye en las calificaciones académicas.
 
-**Control del giro:** el estudiante conoce misión, reglas y evidencia, pero la consigna específica reservada se comunica por el profesor durante la sesión. No se aloja previamente aquí ni en HTML del alumno. El texto posterior para recuperación permanece en custodia DOCENTE, sin mecanismo de acceso alumno habilitado.
-
-La publicación de este repositorio de alumno se autoriza únicamente para consulta de materiales. NO se autorizan GitHub Pages, Classroom, IA Grader, calificaciones, cambios de permisos Figma ni pruebas con los 25 estudiantes. Las vistas HTML y PNG son recursos de consulta, no actividades publicadas en Classroom.
+La vista HTML se ajusta editorialmente a lenguaje estudiantil y tendrá espacios para video y podcast del profesor, pendientes de enlaces.
